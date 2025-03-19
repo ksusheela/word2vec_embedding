@@ -10,15 +10,14 @@
 7. remove numbers
 8. remove
 
-          'NLP is super fun and super exciting!',
-          'am trying to learn word2vec',
-          'i will try to buils 2 models for  word2vec are cbow and skipgram',
+   
+          'i will try to builds  models for  word2vec are cbow and skipgram',
           'cbow is faster but skipgram is more accurate',
           'cbow is good for small corpus and skipgram is good for large corpus',
           'word2vec is a powerful algorithm for natural language processing',
           'word2vec is not only for text but also for images and audio!',
           'word2vec is a powerful  algorithm for natural language processing',
-          'word2vec is not only for text but also for 15 images and 4 audio',
+          'word2vec is not only for text but also for  images and  audio',
           'word2vec is a powerful algorithm for natural language processing',
           'word2vec is not only for text but also for images and audio',
           'word 2 vectors is being used for word embeddings',
